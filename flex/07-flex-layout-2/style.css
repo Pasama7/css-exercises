@@ -23,10 +23,26 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  display: flex;
+  height: 100vh;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+ul{
+  list-style: none;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+}
+.textcontainer{
+  display: flex;
+  flex-direction: column;
 }
