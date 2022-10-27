@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  font-weight: bold;
 }
 
 input {
@@ -24,4 +25,9 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+
+a{
+  text-decoration: none;
+  color: grey;
 }
