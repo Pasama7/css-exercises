@@ -48,6 +48,7 @@ justify-content: center;
   display: flex;
   justify-content: space-between;
   height: 250px;
+  padding: 16px;
 }
 
 .left-links{
